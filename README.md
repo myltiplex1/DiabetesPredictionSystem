@@ -2,6 +2,9 @@
 
 This Streamlit app lets you predict diabetes risk based on health parameters and get personalized health recommendations using AI. Follow these steps carefully to get the application running on your computer.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diabetespredictionsystem-soyinkaenoch.streamlit.app/)
+
+
 ## Prerequisites
 
 Before you begin, make sure you have:
