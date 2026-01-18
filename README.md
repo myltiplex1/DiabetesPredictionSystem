@@ -9,7 +9,7 @@ This Streamlit app lets you predict diabetes risk based on health parameters and
 
 Before you begin, make sure you have:
 
-- Python 3.9 or newer installed → Check with: `python --version` or `python3 --version`
+- Python 3.11 or newer installed → Check with: `python --version` or `python3 --version`
 - Git (optional – if you cloned the repository)
 - A code editor (VS Code, PyCharm, etc. recommended)
 - An internet connection (needed for installing packages)
@@ -100,7 +100,7 @@ GOOGLE_API_KEY=your-google-api-key-here
 Make sure you're still in the activated virtual environment, then:
 
 ```bash
-streamlit gpt_app.py
+streamlit run gpt_app.py
 ```
 or 
 
