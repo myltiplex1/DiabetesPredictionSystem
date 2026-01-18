@@ -97,10 +97,9 @@ GOOGLE_API_KEY=your-google-api-key-here
 Make sure you're still in the activated virtual environment, then:
 
 ```bash
-streamlit run main.py
+streamlit gpt_app.py
 ```
-
-Or if your main file has a different name:
+or 
 
 ```bash
 streamlit run gemini_app.py
